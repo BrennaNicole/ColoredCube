@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ColoredCube", "ColoredCube\", "{635AA450-E42C-4977-AB5E-96FBDB8E1B74}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50429"
+		Debug.AspNetCompiler.PhysicalPath = "ColoredCube\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50429\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50429"
+		Release.AspNetCompiler.PhysicalPath = "ColoredCube\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50429\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50429"
+		SlnRelativePath = "ColoredCube\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{635AA450-E42C-4977-AB5E-96FBDB8E1B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635AA450-E42C-4977-AB5E-96FBDB8E1B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2B3ABCB-A947-4CAF-8D4D-0B02C87E0C30}
+	EndGlobalSection
+EndGlobal
